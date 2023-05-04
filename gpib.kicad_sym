@@ -878,11 +878,11 @@
       )
     )
   )
-  (symbol "TMS9914A" (in_bom yes) (on_board yes)
+  (symbol "TMS9914ANL" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 2.54 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "TMS9914A" (at 0 0 0)
+    (property "Value" "TMS9914ANL" (at 0 0 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "Package_DIP:DIP-40_W15.24mm" (at 0 45.72 0)
@@ -900,13 +900,13 @@
     (property "ki_fp_filters" "DIP?40?W15.24mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "TMS9914A_0_1"
+    (symbol "TMS9914ANL_0_1"
       (rectangle (start -10.16 33.02) (end 10.16 -33.02)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "TMS9914A_1_1"
+    (symbol "TMS9914ANL_1_1"
       (pin output line (at -12.7 -17.78 0) (length 2.54)
         (name "~{ACCRQ}" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

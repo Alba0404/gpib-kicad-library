@@ -25,6 +25,7 @@ This library follows the [KiCad Library Convention](https://klc.kicad.org/).
 | TI    | SN75161BDW | [datasheet](https://www.ti.com/lit/ds/symlink/sn75161b.pdf) | SOIC-20 |
 | TI    | SN75162BN | [datasheet](https://www.ti.com/lit/ds/symlink/sn75162b.pdf) | DIP-22 |
 | TI    | SN75162BDW | [datasheet](https://www.ti.com/lit/ds/symlink/sn75162b.pdf) | SOIC-24 |
+| Intel | 8291A | [datasheet](https://w140.com/tekwiki/images/5/57/I8291A.pdf) | DIP-40 |
 
 #### 1.1.b Connector_GPIB
 |Company|Component|Datasheet|Packages|

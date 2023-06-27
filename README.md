@@ -28,6 +28,8 @@ This library follows the [KiCad Library Convention](https://klc.kicad.org/).
 | Intel | 8291A | [datasheet](https://w140.com/tekwiki/images/5/57/I8291A.pdf) | DIP-40 |
 | Intel | 8292 | [datasheet](http://www.emuverse.ru/downloads/datasheets/other/intel/8292.pdf) | DIP-40 |
 | Intel | 8293 | [datasheet](http://www.emuverse.ru/downloads/datasheets/other/intel/8293.pdf) | DIP-28 |
+| Intel | 8296 | [datasheet] (https://datasheet.datasheetarchive.com/originals/scans/Scans-004/Scans-0098874.pdf) | DIP-20 |
+| Intel | 8297 | [datasheet] (https://datasheet.datasheetarchive.com/originals/scans/Scans-004/Scans-0098874.pdf) | DIP-20 |
 
 #### 1.1.b Connector_GPIB
 |Company|Component|Datasheet|Packages|

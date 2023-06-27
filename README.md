@@ -14,45 +14,45 @@ This library follows the [KiCad Library Convention](https://klc.kicad.org/).
 ## 1. Components
 ### 1.1 Symbols
 #### 1.1.a gpib.kicad_sym
-|Company|Component|Datasheet|Packages|
-|:------|:--------|:--------|:-------|
-| NEC   | uPD7210 | [datasheet](https://z3d9b7u8.stackpathcdn.com/pdf-down/U/P/D/UPD7210_NEC.pdf) | |
-| NI    | NAT7210 | [datasheet](https://docs-be.ni.com/bundle/nat7210-4882chip-specs/raw/resource/enus/372012d.pdf) | |
-| NI    | TMS9914ANL | [datasheet](http://www.bitsavers.org/components/ti/TMS9900/TMS9914A_General_Purpose_Interface_Bus_Controller_Data_Manual_Dec82.pdf) | |
-| TI    | SN75160BN | [datasheet](https://www.ti.com/lit/ds/symlink/sn75160b.pdf) | DIP-20 |
-| TI    | SN75160BDW | [datasheet](https://www.ti.com/lit/ds/symlink/sn75160b.pdf) | SOIC-20 |
-| TI    | SN75161BN | [datasheet](https://www.ti.com/lit/ds/symlink/sn75161b.pdf) | DIP-20 |
-| TI    | SN75161BDW | [datasheet](https://www.ti.com/lit/ds/symlink/sn75161b.pdf) | SOIC-20 |
-| TI    | SN75162BN | [datasheet](https://www.ti.com/lit/ds/symlink/sn75162b.pdf) | DIP-22 |
-| TI    | SN75162BDW | [datasheet](https://www.ti.com/lit/ds/symlink/sn75162b.pdf) | SOIC-24 |
-| Intel | 8291A | [datasheet](https://w140.com/tekwiki/images/5/57/I8291A.pdf) | DIP-40 |
-| Intel | 8292 | [datasheet](http://www.emuverse.ru/downloads/datasheets/other/intel/8292.pdf) | DIP-40 |
-| Intel | 8293 | [datasheet](http://www.emuverse.ru/downloads/datasheets/other/intel/8293.pdf) | DIP-28 |
-| Intel | 8296 | [datasheet] (https://datasheet.datasheetarchive.com/originals/scans/Scans-004/Scans-0098874.pdf) | DIP-20 |
-| Intel | 8297 | [datasheet] (https://datasheet.datasheetarchive.com/originals/scans/Scans-004/Scans-0098874.pdf) | DIP-20 |
+|Company|Component|Datasheet|Packages| 1st version |
+|:------|:--------|:--------|:-------|:------------|
+| NEC   | uPD7210 | [datasheet](https://z3d9b7u8.stackpathcdn.com/pdf-down/U/P/D/UPD7210_NEC.pdf) | | 1.0.0 |
+| NI    | NAT7210 | [datasheet](https://docs-be.ni.com/bundle/nat7210-4882chip-specs/raw/resource/enus/372012d.pdf) | | 1.0.0 |
+| NI    | TMS9914ANL | [datasheet](http://www.bitsavers.org/components/ti/TMS9900/TMS9914A_General_Purpose_Interface_Bus_Controller_Data_Manual_Dec82.pdf) | | 1.0.0 |
+| TI    | SN75160BN | [datasheet](https://www.ti.com/lit/ds/symlink/sn75160b.pdf) | DIP-20 | 1.0.0 |
+| TI    | SN75160BDW | [datasheet](https://www.ti.com/lit/ds/symlink/sn75160b.pdf) | SOIC-20 | 1.0.0 |
+| TI    | SN75161BN | [datasheet](https://www.ti.com/lit/ds/symlink/sn75161b.pdf) | DIP-20 | 1.0.0 |
+| TI    | SN75161BDW | [datasheet](https://www.ti.com/lit/ds/symlink/sn75161b.pdf) | SOIC-20 | 1.0.0 |
+| TI    | SN75162BN | [datasheet](https://www.ti.com/lit/ds/symlink/sn75162b.pdf) | DIP-22 | 1.0.0 |
+| TI    | SN75162BDW | [datasheet](https://www.ti.com/lit/ds/symlink/sn75162b.pdf) | SOIC-24 | 1.0.0 |
+| Intel | 8291A | [datasheet](https://w140.com/tekwiki/images/5/57/I8291A.pdf) | DIP-40 | 1.2.0 |
+| Intel | 8292 | [datasheet](http://www.emuverse.ru/downloads/datasheets/other/intel/8292.pdf) | DIP-40 | 1.2.0 |
+| Intel | 8293 | [datasheet](http://www.emuverse.ru/downloads/datasheets/other/intel/8293.pdf) | DIP-28 | 1.2.0 |
+| Intel | 8296 | [datasheet](https://datasheet.datasheetarchive.com/originals/scans/Scans-004/Scans-0098874.pdf) | DIP-20 | 1.2.0 |
+| Intel | 8297 | [datasheet](https://datasheet.datasheetarchive.com/originals/scans/Scans-004/Scans-0098874.pdf) | DIP-20 | 1.2.0 |
 
 #### 1.1.b Connector_GPIB
-|Company|Component|Datasheet|Packages|
-|:------|:--------|:--------|:-------|
-| L-com | CIB24S  | [datasheet](https://www.l-com.com/Images/Downloadables/2D/CIB24S_2D.pdf) | DIP |
-| L-com | CIB24SPC | [datasheet](https://www.l-com.com/Images/Downloadables/2D/CIB24SPC_2D.pdf) | DIP |
-| L-com | CIB24SRA | [datasheet](https://www.l-com.com/Images/Downloadables/2D/CIB24SRA_2D.pdf) | DIP |
+|Company|Component|Datasheet|Packages| 1st version |
+|:------|:--------|:--------|:-------|:------------|
+| L-com | CIB24S  | [datasheet](https://www.l-com.com/Images/Downloadables/2D/CIB24S_2D.pdf) | DIP | 1.1.0 |
+| L-com | CIB24SPC | [datasheet](https://www.l-com.com/Images/Downloadables/2D/CIB24SPC_2D.pdf) | DIP | 1.1.0 |
+| L-com | CIB24SRA | [datasheet](https://www.l-com.com/Images/Downloadables/2D/CIB24SRA_2D.pdf) | DIP | 1.1.0 |
 
 ### 1.2 Footprints
 #### 1.2.a Connector_GPIB.pretty
-|Company|Component|Datasheet|Packages|
-|:------|:--------|:--------|:-------|
-| L-com | CIB24S  | [datasheet](https://www.l-com.com/Images/Downloadables/2D/CIB24S_2D.pdf) | DIP |
-| L-com | CIB24SPC | [datasheet](https://www.l-com.com/Images/Downloadables/2D/CIB24SPC_2D.pdf) | DIP |
-| L-com | CIB24SRA | [datasheet](https://www.l-com.com/Images/Downloadables/2D/CIB24SRA_2D.pdf) | DIP |
+|Company|Component|Datasheet|Packages| 1st version |
+|:------|:--------|:--------|:-------|:------------|
+| L-com | CIB24S  | [datasheet](https://www.l-com.com/Images/Downloadables/2D/CIB24S_2D.pdf) | DIP | 1.1.0 |
+| L-com | CIB24SPC | [datasheet](https://www.l-com.com/Images/Downloadables/2D/CIB24SPC_2D.pdf) | DIP | 1.1.0 |
+| L-com | CIB24SRA | [datasheet](https://www.l-com.com/Images/Downloadables/2D/CIB24SRA_2D.pdf) | DIP | 1.1.0 |
 
 ### 1.3 3Dshapes
 #### 1.3.a Connector_GPIB.3dshapes
-|Company|Component|Datasheet|Formats|
-|:------|:--------|:--------|:-------|
-| L-com | CIB24S  | [datasheet](https://www.l-com.com/Images/Downloadables/2D/CIB24S_2D.pdf) | step, wrl |
-| L-com | CIB24SPC | [datasheet](https://www.l-com.com/Images/Downloadables/2D/CIB24SPC_2D.pdf) | step, wrl |
-| L-com | CIB24SRA | [datasheet](https://www.l-com.com/Images/Downloadables/2D/CIB24SRA_2D.pdf) | step, wrl |
+|Company|Component|Datasheet|Formats| 1st version |
+|:------|:--------|:--------|:-------|:-----------|
+| L-com | CIB24S  | [datasheet](https://www.l-com.com/Images/Downloadables/2D/CIB24S_2D.pdf) | step, wrl | 1.1.0 |
+| L-com | CIB24SPC | [datasheet](https://www.l-com.com/Images/Downloadables/2D/CIB24SPC_2D.pdf) | step, wrl | 1.1.0 |
+| L-com | CIB24SRA | [datasheet](https://www.l-com.com/Images/Downloadables/2D/CIB24SRA_2D.pdf) | step, wrl | 1.1.0 |
 
 
 ## 2. Contributions

@@ -64,6 +64,7 @@ Please follow the [KiCad Library Convention](https://klc.kicad.org/) in your Pul
 gpib-kicad-library (c) by [Alexandre Barrat](https://github.com/Alba0404)  
 This library is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/legalcode), with the following exception:
 > To the extent that the creation of electronic designs that use 'Licensed Material' can be considered to be 'Adapted Material', then the copyright holder waives article 3 of the license with respect to these designs and any generated files which use data provided as part of the 'Licensed Material'.
+
 [![CC BY-SA 4.0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-sa.svg)](https://creativecommons.org/licenses/by-sa/4.0/legalcode)
 
 * 3D models and documentations for L-com connectors come from their website [https://www.l-com.com/](https://www.l-com.com/).

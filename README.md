@@ -5,7 +5,7 @@
 ![License](https://img.shields.io/github/license/alba0404/gpib-kicad-library)
 ![Downloads](https://img.shields.io/github/downloads/alba0404/gpib-kicad-library/total)
 
-This is a libray for KiCad 7.0, may be compatible with version 6.0 of KiCad.
+This is a libray for KiCad 7.0 and above, may be compatible with version 6.0 of KiCad.
 It contains symbols of components linked to the GPIB protocol (IEEE-488, also known by its old name HP-IB).
 
 This library follows the [KiCad Library Convention](https://klc.kicad.org/).

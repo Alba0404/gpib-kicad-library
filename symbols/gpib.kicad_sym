@@ -10148,7 +10148,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "IEEE-488 GPIB Transceiver (data), SOIC-20"
+		(property "Description" "IEEE-488 GPIB Transceiver (data), SOP-20"
 			(at 0 0 0)
 			(effects
 				(font
@@ -10214,7 +10214,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "IEEE-488 GPIB Transceiver (ctrl), DIP-20"
+		(property "Description" "IEEE-488 GPIB Transceiver (ctrl), SOP-20"
 			(at 0 0 0)
 			(effects
 				(font

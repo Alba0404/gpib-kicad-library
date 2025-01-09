@@ -3082,7 +3082,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(property "Reference" "U"
-			(at -7.62 15.24 0)
+			(at -7.874 15.494 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3091,7 +3091,7 @@
 			)
 		)
 		(property "Value" "DS75160AN"
-			(at 2.54 15.24 0)
+			(at 0.254 15.494 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3523,7 +3523,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(property "Reference" "U"
-			(at -6.096 17.526 0)
+			(at -7.874 15.494 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3532,7 +3532,7 @@
 			)
 		)
 		(property "Value" "DS75161AN"
-			(at -13.208 15.494 0)
+			(at 0.254 15.494 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9119,7 +9119,7 @@
 	(symbol "DS75160AWM"
 		(extends "DS75160AN")
 		(property "Reference" "U"
-			(at -7.62 15.24 0)
+			(at -7.874 15.494 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9128,7 +9128,7 @@
 			)
 		)
 		(property "Value" "DS75160AWM"
-			(at 2.54 15.24 0)
+			(at 0.254 15.494 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9185,7 +9185,7 @@
 	(symbol "DS75161AWM"
 		(extends "DS75161AN")
 		(property "Reference" "U"
-			(at -6.096 17.526 0)
+			(at -7.874 15.494 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9194,7 +9194,7 @@
 			)
 		)
 		(property "Value" "DS75161AWM"
-			(at -13.208 15.494 0)
+			(at 0.254 15.494 0)
 			(effects
 				(font
 					(size 1.27 1.27)

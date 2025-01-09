@@ -30,6 +30,8 @@ This library follows the [KiCad Library Convention](https://klc.kicad.org/).
 | Intel | 8293 | [datasheet](http://www.emuverse.ru/downloads/datasheets/other/intel/8293.pdf) | DIP-28 | 1.2.0 |
 | Intel | 8296 | [datasheet](https://datasheet.datasheetarchive.com/originals/scans/Scans-004/Scans-0098874.pdf) | DIP-20 | 1.2.0 |
 | Intel | 8297 | [datasheet](https://datasheet.datasheetarchive.com/originals/scans/Scans-004/Scans-0098874.pdf) | DIP-20 | 1.2.0 |
+| National Semiconductor | DS75160AN | [datasheet](https://datasheets.alba0404.fr/data/GPIB/DS75160A.pdf) | DIP-20 | 1.3.0 |
+| National Semiconductor | DS75160AWM | [datasheet](https://datasheets.alba0404.fr/data/GPIB/DS75160A.pdf) | SOP-20 | 1.3.0 |
 
 #### 1.1.b Connector_GPIB
 |Company|Component|Datasheet|Packages| 1st version |

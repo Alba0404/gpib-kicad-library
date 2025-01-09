@@ -34,6 +34,7 @@ This library follows the [KiCad Library Convention](https://klc.kicad.org/).
 | National Semiconductor | DS75160AWM | [datasheet](https://datasheets.alba0404.fr/data/GPIB/DS75160A.pdf) | SOP-20 | 1.3.0 |
 | National Semiconductor | DS75161AN | [datasheet](https://datasheets.alba0404.fr/data/GPIB/DS75161A.pdf) | DIP-20 | 1.3.0 |
 | National Semiconductor | DS75161AWM | [datasheet](https://datasheets.alba0404.fr/data/GPIB/DS75161A.pdf) | SOP-20 | 1.3.0 |
+| National Semiconductor | DS75162AN | [datasheet](https://datasheets.alba0404.fr/data/GPIB/DS75162A.pdf) | DIP-22 | 1.3.0 |
 
 #### 1.1.b Connector_GPIB
 |Company|Component|Datasheet|Packages| 1st version |

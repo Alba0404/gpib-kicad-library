@@ -16,9 +16,9 @@ This library follows the [KiCad Library Convention](https://klc.kicad.org/).
 #### 1.1.a gpib.kicad_sym
 |Company|Component|Datasheet|Packages| 1st version |
 |:------|:--------|:--------|:-------|:------------|
-| NEC   | uPD7210 | [datasheet](https://datasheets.alba0404.fr/data/GPIB/uPD7210.pdf) | | 1.0.0 |
-| NI    | NAT7210 | [datasheet](https://docs-be.ni.com/bundle/nat7210-4882chip-specs/raw/resource/enus/372012d.pdf) | | 1.0.0 |
-| NI    | TMS9914ANL | [datasheet](http://www.bitsavers.org/components/ti/TMS9900/TMS9914A_General_Purpose_Interface_Bus_Controller_Data_Manual_Dec82.pdf) | | 1.0.0 |
+| NEC   | uPD7210 | [datasheet](https://datasheets.alba0404.fr/data/GPIB/uPD7210.pdf) | DIP-40 | 1.0.0 |
+| NI    | NAT7210 | [datasheet](https://docs-be.ni.com/bundle/nat7210-4882chip-specs/raw/resource/enus/372012d.pdf) | DIP-40 | 1.0.0 |
+| NI    | TMS9914ANL | [datasheet](http://www.bitsavers.org/components/ti/TMS9900/TMS9914A_General_Purpose_Interface_Bus_Controller_Data_Manual_Dec82.pdf) | DIP-40 | 1.0.0 |
 | TI    | SN75160BN | [datasheet](https://www.ti.com/lit/ds/symlink/sn75160b.pdf) | DIP-20 | 1.0.0 |
 | TI    | SN75160BDW | [datasheet](https://www.ti.com/lit/ds/symlink/sn75160b.pdf) | SOIC-20 | 1.0.0 |
 | TI    | SN75161BN | [datasheet](https://www.ti.com/lit/ds/symlink/sn75161b.pdf) | DIP-20 | 1.0.0 |

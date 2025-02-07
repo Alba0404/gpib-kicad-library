@@ -19,23 +19,26 @@ This library follows the [KiCad Library Convention](https://klc.kicad.org/).
 | NEC   | uPD7210 | [datasheet](https://datasheets.alba0404.fr/data/GPIB/uPD7210.pdf) | DIP-40 | 1.0.0 |
 | NI    | NAT7210 | [datasheet](https://docs-be.ni.com/bundle/nat7210-4882chip-specs/raw/resource/enus/372012d.pdf) | DIP-40 | 1.0.0 |
 | NI    | TMS9914ANL | [datasheet](http://www.bitsavers.org/components/ti/TMS9900/TMS9914A_General_Purpose_Interface_Bus_Controller_Data_Manual_Dec82.pdf) | DIP-40 | 1.0.0 |
-| TI    | SN75160BN | [datasheet](https://www.ti.com/lit/ds/symlink/sn75160b.pdf) | DIP-20 | 1.0.0 |
+| TI    | SN75160BN  | [datasheet](https://www.ti.com/lit/ds/symlink/sn75160b.pdf) | DIP-20  | 1.0.0 |
 | TI    | SN75160BDW | [datasheet](https://www.ti.com/lit/ds/symlink/sn75160b.pdf) | SOIC-20 | 1.0.0 |
-| TI    | SN75161BN | [datasheet](https://www.ti.com/lit/ds/symlink/sn75161b.pdf) | DIP-20 | 1.0.0 |
+| TI    | SN75161BN  | [datasheet](https://www.ti.com/lit/ds/symlink/sn75161b.pdf) | DIP-20  | 1.0.0 |
 | TI    | SN75161BDW | [datasheet](https://www.ti.com/lit/ds/symlink/sn75161b.pdf) | SOIC-20 | 1.0.0 |
-| TI    | SN75162BN | [datasheet](https://www.ti.com/lit/ds/symlink/sn75162b.pdf) | DIP-22 | 1.0.0 |
+| TI    | SN75162BN  | [datasheet](https://www.ti.com/lit/ds/symlink/sn75162b.pdf) | DIP-22  | 1.0.0 |
 | TI    | SN75162BDW | [datasheet](https://www.ti.com/lit/ds/symlink/sn75162b.pdf) | SOIC-24 | 1.0.0 |
 | Intel | 8291A | [datasheet](https://w140.com/tekwiki/images/5/57/I8291A.pdf) | DIP-40 | 1.2.0 |
 | Intel | 8292 | [datasheet](http://www.emuverse.ru/downloads/datasheets/other/intel/8292.pdf) | DIP-40 | 1.2.0 |
 | Intel | 8293 | [datasheet](http://www.emuverse.ru/downloads/datasheets/other/intel/8293.pdf) | DIP-28 | 1.2.0 |
 | Intel | 8296 | [datasheet](https://datasheet.datasheetarchive.com/originals/scans/Scans-004/Scans-0098874.pdf) | DIP-20 | 1.2.0 |
 | Intel | 8297 | [datasheet](https://datasheet.datasheetarchive.com/originals/scans/Scans-004/Scans-0098874.pdf) | DIP-20 | 1.2.0 |
-| National Semiconductor | DS75160AN | [datasheet](https://datasheets.alba0404.fr/data/GPIB/DS75160A.pdf) | DIP-20 | 1.3.0 |
+| National Semiconductor | DS75160AN  | [datasheet](https://datasheets.alba0404.fr/data/GPIB/DS75160A.pdf) | DIP-20 | 1.3.0 |
 | National Semiconductor | DS75160AWM | [datasheet](https://datasheets.alba0404.fr/data/GPIB/DS75160A.pdf) | SOP-20 | 1.3.0 |
-| National Semiconductor | DS75161AN | [datasheet](https://datasheets.alba0404.fr/data/GPIB/DS75161A.pdf) | DIP-20 | 1.3.0 |
+| National Semiconductor | DS75161AN  | [datasheet](https://datasheets.alba0404.fr/data/GPIB/DS75161A.pdf) | DIP-20 | 1.3.0 |
 | National Semiconductor | DS75161AWM | [datasheet](https://datasheets.alba0404.fr/data/GPIB/DS75161A.pdf) | SOP-20 | 1.3.0 |
-| National Semiconductor | DS75162AN | [datasheet](https://datasheets.alba0404.fr/data/GPIB/DS75162A.pdf) | DIP-22 | 1.3.0 |
+| National Semiconductor | DS75162AN  | [datasheet](https://datasheets.alba0404.fr/data/GPIB/DS75162A.pdf) | DIP-22 | 1.3.0 |
 | National Semiconductor | DS75162AWM | [datasheet](https://datasheets.alba0404.fr/data/GPIB/DS75162A.pdf) | SOP-24 | 1.3.0 |
+| NI | NAT9914BPD | [datasheet](https://docs-be.ni.com/bundle/nat9914-specs/raw/resource/enus/nat9914-specs.pdf) | DIP-40  | 1.4.0 |
+| NI | NAT9914BPL | [datasheet](https://docs-be.ni.com/bundle/nat9914-specs/raw/resource/enus/nat9914-specs.pdf) | PLCC-44 | 1.4.0 |
+| NI | NAT9914BPQ | [datasheet](https://docs-be.ni.com/bundle/nat9914-specs/raw/resource/enus/nat9914-specs.pdf) | QFP-44  | 1.4.0 |
 
 #### 1.1.b Connector_GPIB
 |Company|Component|Datasheet|Packages| 1st version |

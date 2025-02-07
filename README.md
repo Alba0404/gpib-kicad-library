@@ -39,6 +39,7 @@ This library follows the [KiCad Library Convention](https://klc.kicad.org/).
 | NI | NAT9914BPD | [datasheet](https://docs-be.ni.com/bundle/nat9914-specs/raw/resource/enus/nat9914-specs.pdf) | DIP-40  | 1.4.0 |
 | NI | NAT9914BPL | [datasheet](https://docs-be.ni.com/bundle/nat9914-specs/raw/resource/enus/nat9914-specs.pdf) | PLCC-44 | 1.4.0 |
 | NI | NAT9914BPQ | [datasheet](https://docs-be.ni.com/bundle/nat9914-specs/raw/resource/enus/nat9914-specs.pdf) | QFP-44  | 1.4.0 |
+| NI | NAT4882BPL | [datasheet](https://datasheets.alba0404.fr/data/GPIB/NAT4882BPL.pdf) | PLCC-68 | 1.4.0 |
 
 #### 1.1.b Connector_GPIB
 |Company|Component|Datasheet|Packages| 1st version |
